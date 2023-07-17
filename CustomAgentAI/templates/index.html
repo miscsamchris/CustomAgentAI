@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <title>CustomAgentAI</title>
+    <style>
+        body {
+            background-color: rgb(255, 255, 255);
+            color: white;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+
+        .nav-item {
+            color: white;
+        }
+
+        .modal-body {
+            background-color: rgb(25, 25, 27);
+            ;
+        }
+
+        .modal-content {
+            background-color: rgb(25, 25, 27);
+            ;
+
+        }
+
+        .modal-footer {
+            background-color: rgb(25, 25, 27);
+            ;
+
+        }
+
+        .modal-header {
+            background-color: rgb(25, 25, 27);
+            ;
+
+        }
+
+        .nav-item:hover {
+            color: white;
+        }
+
+
+
+        .page-header {
+            color: white;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            padding: 0%;
+            letter-spacing: 5px;
+        }
+
+        p.subhead {
+            color: white;
+            margin: 0%;
+            text-align: center;
+            font-variant: small-caps;
+        }
+
+        .main-content {
+            padding: 15px;
+            padding-top: 25px;
+        }
+
+        .navbar {
+            background-color: #008DFF !important;
+        }
+
+
+        .card {
+            background-color: inherit !important;
+        }
+
+        .form-style {
+            margin: 0 auto;
+            width: 60%;
+        }
+
+        .form-control {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="row sticky-top" style="background-color: #008DFF;">
+        <div class="col-md-5">
+            <h4 class="page-header">CustomAgentAI</h4>
+            <p class="subhead"> GenAI Based Custom AI </p>
+        </div>
+        <div class="col-md-7">
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Admin Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Welcome, User</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Logout </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="row main-content">
+        <div class="container card" style="color: white!important;">
+
+            <br>
+            <br>
+            <h3 class="title" style="text-align: center ; color: black;">Create Product For Support</h3>
+            <div class="col-md-12 card-body ">
+                <form method="POST" action="{{url_for('product_create')}}" enctype="multipart/form-data"
+                    style="width: 50%;margin-left : 25%;">
+                    <div class="row">
+                        <div class="col">
+                            <input class="form-control input-lg" type="text" name="product_name"
+                                placeholder="Product Name" autofocus="">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <input class="form-control input-lg" type="text" name="product_description"
+                                placeholder="Product Description" autofocus="">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <input class="form-control input-lg" type="email" name="product_tech_contact"
+                                placeholder="Product Support SPOC" autofocus="">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <input class="form-control input-lg" type="file" name="product_data" accept=".pdf"
+                                placeholder="Product Support Guide">
+                        </div>
+                    </div>
+                    <center><button class="btn btn-success font-weight-bold" type="submit">Create Product</button>
+                    </center>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

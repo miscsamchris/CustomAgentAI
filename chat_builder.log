@@ -1,0 +1,356 @@
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689357459.1383893", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "hi"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:root:Return: {"bot_state": "Next_Menu", "data": [{"type": "interactive", "body": {"type": "button", "title": "Please share your feedback on this document", "choices": [{"id": "1", "title": "Send Text"}, {"id": "2", "title": "Send Video"}, {"id": "3", "title": "Send List"}]}}]}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 00:40:32] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "Send Text"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:root:Return: {"bot_state": "1689361838.6830556", "data": [{"type": "text", "body": {"data": "We will contact you soon"}}]}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 00:40:38] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\ProgramData\\anaconda3\\Lib\\logging\\__init__.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689361838.6830556", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hi"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:15:13] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "3", "title": "Send List"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:16:13] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689363973.4166858", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:18:17] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:19:22] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hi"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:19:38] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "2", "title": "Send Video"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:19:53] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689364193.1706734", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:29:20] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\werkzeug\\utils.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:46:45] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:47:52] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:48:30] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689365910.4554083", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:49:50] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\db_clean.py', reloading
+INFO:werkzeug: * Detected change in 'E:\\ProgramData\\anaconda3\\Lib\\os.py', reloading
+INFO:werkzeug: * Detected change in 'E:\\ProgramData\\anaconda3\\Lib\\logging\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask_sqlalchemy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask_sqlalchemy\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask_sqlalchemy\\query.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask_sqlalchemy\\session.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask_sqlalchemy\\table.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\json\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\globals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\helpers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\typing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\scaffold.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\wrappers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\werkzeug\\sansio\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\werkzeug\\sansio\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\werkzeug\\datastructures\\structures.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\werkzeug\\datastructures\\file_storage.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\event\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\PyPDF2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\orm\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\PyPDF2\\_reader.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\util\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\PyPDF2\\_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\inspection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\schema.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\schema.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\roles.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\visitors.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\elements.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\selectable.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\cache_key.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\traversals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\event\\registry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\util\\_collections.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\util\\langhelpers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\util\\_py_collections.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\sql\\annotation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\orm\\mapper.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\orm\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\orm\\decl_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\orm\\interfaces.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\orm\\query.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\orm\\session.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\orm\\_typing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\sqlalchemy\\log.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\chat_completion.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\completion.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\deployment.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\engine.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\file.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\fine_tune.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\abstract\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\abstract\\engine_api_resource.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_requestor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\abstract\\api_resource.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\openai_response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\openai_object.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\object_classes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\experimental\\completion_config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\abstract\\createable_api_resource.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\abstract\\deletable_api_resource.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\abstract\\listable_api_resource.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\abstract\\nested_resource_class_methods.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\abstract\\updateable_api_resource.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey tehre. I need Help"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:54:24] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "Test"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:54:36] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689366276.1572971", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 01:54:41] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689366281.7116933", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:04:28] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689366281.7116933", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hello There. I'm Sam"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:openai:error_code=None error_message="Additional properties are not allowed ('user' was unexpected) - 'messages.0'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:05:00] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'E:\\ProgramData\\anaconda3\\Scripts\\conda-script.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689366281.7116933", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hello There. I'm Sam"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:07:04] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689366281.7116933", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hello There. I'm Sam"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:08:37] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689366281.7116933", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:11:19] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689367277.3690188", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Who are you"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:11:33] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689367291.6119874", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There buddy. I'm Sam"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:12:54] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Next_Menu", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "Test"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:13:01] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689367381.2501845", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "What can you tell me?"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:13:24] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689367402.6359437", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There. I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:34:26] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "I need Some Help"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:34:45] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "MetaSeum"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:35:10] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "I need some information on how it helps artists"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:35:41] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There. I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:46:09] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "I need Some Help"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:46:26] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "MetaSeum"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:46:36] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "How can I use this as an Artist?"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:46:53] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "How can I use this as an Artist?"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:48:34] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "How can I use this as an Artist?"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:49:23] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689369558.637954", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "How can I use this as an Artist?"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:49:50] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "MetaSeum"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:49:59] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "How can I use this as an Artist?"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:50:10] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689369606.342196", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Who is MetaSeum targeted towards?"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:50:58] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey Oz"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:53:07] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "MetaSeum"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:53:17] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "How can I use this as an Artist?"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:53:33] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Who is MetaSeum targeted towards?"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:53:57] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Who are the founders of MetaSeum"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:55:36] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\test.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There. I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:57:37] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There. I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 02:58:41] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "clear"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:00:41] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There. I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:02:11] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689370331.843827", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "clear"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:02:44] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "MetaSeum"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:02:54] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\db_clean.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Tell Me what can I do with MetaSeum"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:05:20] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'E:\\ProgramData\\anaconda3\\Scripts\\conda-script.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "clear"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:07:42] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There. I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:08:32] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "clear"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:11:32] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There. I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:11:53] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "MetaSeum"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:12:04] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:16:15] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:19:23] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:20:29] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "I need some information on metaseum"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:openai:error_code=None error_message="'agent' is not one of ['system', 'assistant', 'user', 'function'] - 'messages.5.role'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\chat_completion.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_resources\\abstract\\engine_api_resource.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\infan\\AppData\\Roaming\\Python\\Python311\\site-packages\\openai\\api_requestor.py', reloading
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:21:06] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "I need some information on metaseum"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:openai:error_code=None error_message="'agent' is not one of ['system', 'assistant', 'user', 'function'] - 'messages.5.role'" error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:21:29] "[35m[1mPOST /bot_interface HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:22:58] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689371578.2693093", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "clear"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:23:46] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689371578.2693093", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:24:07] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "MetaSeum"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:24:18] "POST /bot_interface HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\New Projects\\OzonetelHackathon\\CustomAgentAI\\app.py', reloading
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:25:51] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "clear"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:26:09] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:26:54] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "1689371813.8130202", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "Hey There I'm Sam."}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:27:22] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "Before_ProdSelection", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"id": "1", "title": "MetaSeum"}, "type": "reply"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:27:40] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "I need some information on metaseum"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:28:17] "POST /bot_interface HTTP/1.1" 200 -
+INFO:root:##################WHATSAPP REQUEST#####################
+INFO:root:Data: {"bot_state": "MetaSeum", "caller": {"id": "+917397455888", "phone_number": "+917397455888", "email": "", "name": "TheLoneSamurai"}, "campaign_number": "918048811650", "channel": {"sid": "1689361797203502", "type": "whatsapp"}, "data": {"body": {"data": "How does this help artists"}, "type": "text"}, "event": "new_conversation", "sid": "1689231709", "user": "hackathon7"}
+INFO:werkzeug:127.0.0.1 - - [15/Jul/2023 03:29:00] "POST /bot_interface HTTP/1.1" 200 -
