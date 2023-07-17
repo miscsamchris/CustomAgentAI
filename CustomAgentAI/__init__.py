@@ -12,4 +12,4 @@ SECRET_KEY = os.urandom(32)
 app.config["SECRET_KEY"] = SECRET_KEY
 db = SQLAlchemy(app)
 app.app_context().push()
-openai.api_key = "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"
+openai.api_key = "OPENAIKEY"
